@@ -1,14 +1,14 @@
 # Netflix Landing Page Clone
 
 <div>
-  <img src="./demo/demo-1.png" width="150"/>
-  <img src="./demo/demo-2.png" width="150"/>
-  <img src="./demo/demo-3.png" width="150"/>
+  <img src="./demo/demo-1.png" width="300"/>
+  <img src="./demo/demo-2.png" width="300"/>
+  <img src="./demo/demo-3.png" width="300"/>
 </div>
 <div>
-  <img src="./demo/demo-4.png" width="500"/>
-  <img src="./demo/demo-5.png" width="225"/>
-  <img src="./demo/demo-6.png" width="225"/>
+  <img src="./demo/demo-4.png" />
+  <img src="./demo/demo-5.png"/>
+  <img src="./demo/demo-6.png"/>
 </div>
 
 📌 This project is a [Frontend Mentor](https://www.frontendmentor.io/challenges) challenge, from their free tier membership.
